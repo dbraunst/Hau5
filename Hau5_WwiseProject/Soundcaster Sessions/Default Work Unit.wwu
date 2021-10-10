@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CCBA1338-FB9F-44DC-B665-4A6C02CB556B}" SchemaVersion="94">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{CCBA1338-FB9F-44DC-B665-4A6C02CB556B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{6397AF79-13E5-4D08-8BC3-42FEEF14B4CD}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Play_Music" ID="{11A8CC99-1EB1-4110-91B5-B2ED39DCD197}" WorkUnitID="{EBCBCF44-634C-4734-A6E8-E7AE858828A0}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Stop_Music" ID="{12DEA217-01C4-43CD-80AD-3569BF1F559E}" WorkUnitID="{EBCBCF44-634C-4734-A6E8-E7AE858828A0}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="Drums" ID="{70C59995-D828-40F3-9E80-F8C854D08812}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Pluck" ID="{13C37767-862F-4404-B1E1-4B83CBB8E77A}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Synth" ID="{A3CD97C5-D01B-4423-B31A-661903D8EB55}"/>
+							<Value>100</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Lead" ID="{7CC7F1EF-A9AF-445F-AA07-2E9985101166}"/>
+							<Value>28.2131661442006</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Counter" ID="{B4029F47-175A-47DB-A32D-7B73B62915CF}"/>
+							<Value>0</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="Bass" ID="{ECCEEF0F-D148-4B45-9905-F5D5861388BD}"/>
+							<Value>0</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Middle" ID="{6B4222A5-49F9-404D-88C0-F28DEFEABE14}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true"/>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

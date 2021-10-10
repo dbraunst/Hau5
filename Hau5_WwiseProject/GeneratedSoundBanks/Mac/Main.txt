@@ -1,0 +1,42 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2837384057	Stop_Music			\Default Work Unit\Stop_Music	
+	2932040671	Play_Music			\Default Work Unit\Play_Music	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3991942870	Music			\Default Work Unit\Music	
+
+State	ID	Name	State Group			Notes
+	0	None	Music			
+	691006007	Loop	Music			
+	1026627430	Middle	Music			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	54442139	Lead			\Default Work Unit\Lead	
+	1291433344	Bass			\Default Work Unit\Bass	
+	2726606664	Drums			\Default Work Unit\Drums	
+	3051750219	Counter			\Default Work Unit\Counter	
+	3928024197	Synth			\Default Work Unit\Synth	
+	4228337688	Pluck			\Default Work Unit\Pluck	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	26754624	synth_03	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\synth_03_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\synth_03		2882496
+	62304466	Bass_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Bass_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Bass_01		2882496
+	209932699	synth_02	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\synth_02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\synth_02		2882496
+	289149165	Bass_02	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Bass_02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Bass_02		2882496
+	342053168	Lead_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Lead_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Lead_01		3931072
+	415126238	Plucks_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Plucks_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Plucks_01		3668928
+	496276109	Trans_Drums	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Trans_Drums_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Middle Section\Full_Transition\Trans_Drums		3647516
+	497951872	Drums_02	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Drums_02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Drums_02		3406784
+	565826532	Counter_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Counter_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Counter_01		2822544
+	588269649	Bridge_2	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Bridge_2_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Middle Section\Full_Bridge\Bridge_2		9082676
+	609259574	Counter_02a	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Counter_02a_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Counter_02a		3144640
+	683893220	synth_04	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\synth_04_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\synth_04		2882496
+	709817464	Counter_03	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Counter_03_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Counter_03		3144640
+	723552400	Drums_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Drums_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Drums_01		3406784
+	822476264	Drums_03	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Drums_03_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Drums_03		3406784
+	895596646	Drums_4otF	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Drums_4otF_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Drums_4otF		3385372
+	906420849	Full_trans_ND	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Full_trans_ND_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Middle Section\Full_Transition\Full_trans_ND		4696092
+	985810809	Break_3	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Break_3_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Middle Section\Full_Break\Break_3		6531100
+	996857713	Plucks_02	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\Plucks_02_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\Plucks_02		3668928
+	1048986362	synth_01	Y:\Documents\UnityProjects\Hau5\Hau5_WwiseProject\.cache\Mac\SFX\synth_01_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Hau5\Playlist\New Music Segment\synth_01		2882496
+

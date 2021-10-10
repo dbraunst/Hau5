@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C08324EB-D81D-4B1F-A39A-D72206068E58}" SchemaVersion="94">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{C08324EB-D81D-4B1F-A39A-D72206068E58}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Bass" ID="{ECCEEF0F-D148-4B45-9905-F5D5861388BD}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Drums" ID="{70C59995-D828-40F3-9E80-F8C854D08812}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Lead" ID="{7CC7F1EF-A9AF-445F-AA07-2E9985101166}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Synth" ID="{A3CD97C5-D01B-4423-B31A-661903D8EB55}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Counter" ID="{B4029F47-175A-47DB-A32D-7B73B62915CF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Pluck" ID="{13C37767-862F-4404-B1E1-4B83CBB8E77A}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

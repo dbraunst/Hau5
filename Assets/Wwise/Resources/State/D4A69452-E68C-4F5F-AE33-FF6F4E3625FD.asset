@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a546500ad3940e4a57678ded71e903, type: 3}
+  m_Name: D4A69452-E68C-4F5F-AE33-FF6F4E3625FD
+  m_EditorClassIdentifier: 
+  objectName: Loop
+  id: 691006007
+  guid: D4A69452-E68C-4F5F-AE33-FF6F4E3625FD
+  WwiseStateGroupReference: {fileID: 11400000, guid: 2139fb3e1c0f14fc3ae0278287c8b0c6,
+    type: 2}

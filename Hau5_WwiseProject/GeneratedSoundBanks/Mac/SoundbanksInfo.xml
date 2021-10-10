@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/dbraunst/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/UnityProjects/Hau5/Hau5_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/dbraunst/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/UnityProjects/Hau5/Hau5_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/dbraunst/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/UnityProjects/Hau5/Hau5_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/dbraunst/Library/Application Support/Wwise2019/Bottles/wwise/dosdevices/y:/Documents/UnityProjects/Hau5/Hau5_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music" DurationType="Infinite"/>
+				<Event Id="2837384057" Name="Stop_Music" ObjectPath="\Events\Default Work Unit\Stop_Music" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="26754624" Language="SFX">
+					<ShortName>synth_03.wav</ShortName>
+					<Path>SFX/synth_03_D79FB2B7.wem</Path>
+				</File>
+				<File Id="62304466" Language="SFX">
+					<ShortName>Bass_01.wav</ShortName>
+					<Path>SFX/Bass_01_D79FB2B7.wem</Path>
+				</File>
+				<File Id="209932699" Language="SFX">
+					<ShortName>synth_02.wav</ShortName>
+					<Path>SFX/synth_02_D79FB2B7.wem</Path>
+				</File>
+				<File Id="289149165" Language="SFX">
+					<ShortName>Bass_02.wav</ShortName>
+					<Path>SFX/Bass_02_D79FB2B7.wem</Path>
+				</File>
+				<File Id="342053168" Language="SFX">
+					<ShortName>Lead_01.wav</ShortName>
+					<Path>SFX/Lead_01_D79FB2B7.wem</Path>
+				</File>
+				<File Id="415126238" Language="SFX">
+					<ShortName>Plucks_01.wav</ShortName>
+					<Path>SFX/Plucks_01_D79FB2B7.wem</Path>
+				</File>
+				<File Id="496276109" Language="SFX">
+					<ShortName>Trans_Drums.wav</ShortName>
+					<Path>SFX/Trans_Drums_D79FB2B7.wem</Path>
+				</File>
+				<File Id="497951872" Language="SFX">
+					<ShortName>Drums_02.wav</ShortName>
+					<Path>SFX/Drums_02_D79FB2B7.wem</Path>
+				</File>
+				<File Id="565826532" Language="SFX">
+					<ShortName>Counter_01.wav</ShortName>
+					<Path>SFX/Counter_01_D79FB2B7.wem</Path>
+				</File>
+				<File Id="588269649" Language="SFX">
+					<ShortName>Bridge_2.wav</ShortName>
+					<Path>SFX/Bridge_2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="609259574" Language="SFX">
+					<ShortName>Counter_02a.wav</ShortName>
+					<Path>SFX/Counter_02a_D79FB2B7.wem</Path>
+				</File>
+				<File Id="683893220" Language="SFX">
+					<ShortName>synth_04.wav</ShortName>
+					<Path>SFX/synth_04_D79FB2B7.wem</Path>
+				</File>
+				<File Id="709817464" Language="SFX">
+					<ShortName>Counter_03.wav</ShortName>
+					<Path>SFX/Counter_03_D79FB2B7.wem</Path>
+				</File>
+				<File Id="723552400" Language="SFX">
+					<ShortName>Drums_01.wav</ShortName>
+					<Path>SFX/Drums_01_D79FB2B7.wem</Path>
+				</File>
+				<File Id="822476264" Language="SFX">
+					<ShortName>Drums_03.wav</ShortName>
+					<Path>SFX/Drums_03_D79FB2B7.wem</Path>
+				</File>
+				<File Id="895596646" Language="SFX">
+					<ShortName>Drums_4otF.wav</ShortName>
+					<Path>SFX/Drums_4otF_D79FB2B7.wem</Path>
+				</File>
+				<File Id="906420849" Language="SFX">
+					<ShortName>Full_trans_ND.wav</ShortName>
+					<Path>SFX/Full_trans_ND_D79FB2B7.wem</Path>
+				</File>
+				<File Id="985810809" Language="SFX">
+					<ShortName>Break_3.wav</ShortName>
+					<Path>SFX/Break_3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="996857713" Language="SFX">
+					<ShortName>Plucks_02.wav</ShortName>
+					<Path>SFX/Plucks_02_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1048986362" Language="SFX">
+					<ShortName>synth_01.wav</ShortName>
+					<Path>SFX/synth_01_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
